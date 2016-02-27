@@ -1,0 +1,34 @@
+_repo: Valerius-Terminus-Of-the-Interpretation-of-Nature_3290
+contributor:
+  annotator:
+    agent_name: Ellis, Robert Leslie
+    birthdate: 1817
+    deathdate: 1859
+    gutenberg_agent_id: '1152'
+    url: http://www.gutenberg.org/2009/agents/1152
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Leslie_Ellis
+creator:
+  author:
+    agent_name: Bacon, Francis
+    aliases:
+    - St. Albans, Francis Bacon, Viscount
+    - Verulam, Francis Bacon
+    birthdate: 1561
+    deathdate: 1626
+    gutenberg_agent_id: '296'
+    url: http://www.gutenberg.org/2009/agents/296
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Bacon
+description: ''
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3290'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Methodology'
+- !lcc 'B'
+title: 'Valerius Terminus: Of the Interpretation of Nature'
+url: http://www.gutenberg.org/ebooks/3290
